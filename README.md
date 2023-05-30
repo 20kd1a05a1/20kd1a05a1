@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @20kd1a05a1
+- 👋 Hi, I’m GOWTHAM
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on different platforms
